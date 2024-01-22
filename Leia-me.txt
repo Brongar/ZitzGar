@@ -1,0 +1,7 @@
+Olá!
+O modelo desenvolvido pelo projeto ZitzGar pode ser encontrado para download no google drive (https://drive.google.com/file/d/1UE7X2v1XsO5u9uewN8tQCgvfCzlPZUpV/view?usp=sharing)
+Nele está o modelo e o tokenizador.
+
+Para mais informações, entre em contato pelo email andrewbrongar@gmail.com
+
+Abraços!!
